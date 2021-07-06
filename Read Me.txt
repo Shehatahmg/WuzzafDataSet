@@ -1,0 +1,19 @@
+localhost:8080/api/summay --> Prints Summary for data
+
+localhost:8080/api/data --> Prints 10 rows
+
+localhost:8080/api/skills --> Prints top 10 skills
+
+localhost:8080/api/companies --> Prints top 10 companies
+
+localhost:8080/api/jobs --> Prints top 10 jobs
+
+localhost:8080/api/locations --> Prints top 10 locations
+
+localhost:8080/api/jobBar -->Prints Job Bar Chart
+
+localhost:8080/api/areaBar --> Prints Areas Bar Chart
+
+localhost:8080/api/companyPie --> prints company piechart
+
+---vectorization,null Removing and Duplicate removing inside JobReasources.java
